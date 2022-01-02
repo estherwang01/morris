@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #f2ecdf;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#948570" height="362.0" layoutX="151.0" layoutY="19.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="362.0" />
+      <Line endX="-151.33334350585938" endY="310.6666564941406" layoutX="330.0" layoutY="50.0" startX="-151.33334350585938" startY="-3.814697265625E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.33334350585938" endY="310.6666564941406" layoutX="483.0" layoutY="53.0" startX="-151.3333740234375" startY="193.6666717529297" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.3333740234375" endY="234.66665649414062" layoutX="389.0" layoutY="64.0" startX="-151.3333740234375" startY="43.33332061767578" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.3333740234375" endY="187.00001525878906" layoutX="438.0" layoutY="63.0" startX="-151.3333740234375" startY="91.00001525878906" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.3333740234375" endY="189.3333282470703" layoutX="529.0" layoutY="62.0" startX="-151.3333740234375" startY="90.00001525878906" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.3333740234375" endY="239.33331298828125" layoutX="578.0" layoutY="64.0" startX="-151.3333740234375" startY="45.33332061767578" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.33334350585938" endY="310.6666564941406" layoutX="633.0" layoutY="46.0" startX="-151.33334350585938" startY="-3.814697265625E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-151.33334350585938" endY="310.6666564941406" layoutX="483.0" layoutY="-157.0" startX="-151.0" startY="205.6666717529297" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="154.0" endY="-3.814697265625E-6" layoutX="331.0" layoutY="48.0" startX="-151.33334350585938" startY="-3.814697265625E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="86.0" endY="7.62939453125E-6" layoutX="343.0" layoutY="108.0" startX="-104.0" startY="7.62939453125E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="38.0" endY="1.52587890625E-5" layoutX="343.0" layoutY="153.0" startX="-57.33331298828125" startY="1.52587890625E-5" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="-51.000030517578125" endY="-1.3333282470703125" layoutX="533.0" layoutY="201.0" startX="-151.33334350585938" startY="-3.814697265625E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="90.66668701171875" endY="0.6666717529296875" layoutX="199.0" layoutY="199.0" startX="-19.0" startY="0.6666717529296875" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="16.33331298828125" endY="1.52587890625E-5" layoutX="364.0" layoutY="249.0" startX="-78.33331298828125" startY="1.52587890625E-5" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="82.0" layoutX="347.0" layoutY="299.0" startX="-110.0" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Line endX="154.0" endY="-3.814697265625E-6" layoutX="331.0" layoutY="357.0" startX="-151.33334350585938" startY="-3.814697265625E-6" stroke="#c0b3a0" strokeWidth="5.0" />
+      <Button layoutX="167.0" layoutY="36.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="36.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="469.0" layoutY="36.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="167.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="167.0" layoutY="345.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="345.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="469.0" layoutY="345.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="469.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="225.0" layoutY="96.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="96.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="414.0" layoutY="96.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="225.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="225.0" layoutY="287.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="414.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="414.0" layoutY="287.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="287.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="274.0" layoutY="141.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="141.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="366.0" layoutY="141.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="274.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="274.0" layoutY="237.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="319.0" layoutY="237.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="366.0" layoutY="237.0" mnemonicParsing="false" prefHeight="0.0" prefWidth="26.0" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Button layoutX="366.0" layoutY="187.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #bfb297;" text="   " />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9f8e7a" height="371.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0" />
+      <Button layoutX="24.0" layoutY="60.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="91.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="122.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="152.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="181.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="211.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="243.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="273.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="24.0" layoutY="306.0" mnemonicParsing="false" style="-fx-background-radius: 50%; -fx-background-color: #4d483f;" text="   " />
+      <Button layoutX="534.0" layoutY="355.0" mnemonicParsing="false" style="-fx-background-color: #4d483f; -fx-text-fill: #f5ebda;" text="HELP" />
+   </children>
+</AnchorPane>

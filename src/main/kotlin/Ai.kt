@@ -1,3 +1,5 @@
+@file: JvmName("KotlinAi")
+
 class Ai {
     class Node(var estimate: Int, val board: Board){}
     private val u = Utility()
