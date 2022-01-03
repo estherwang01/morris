@@ -1,6 +1,6 @@
 import java.util.*
 
-class Game {
+class GameConsole {
 //    var board = Board()
 //    var round = 1
     val u = Utility()

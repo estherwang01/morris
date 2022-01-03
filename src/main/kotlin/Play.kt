@@ -1,4 +1,5 @@
 fun main(args:Array<String>){
-    var game = Game()
+    var game = GameConsole()
     game.play()
 }
+
